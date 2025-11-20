@@ -1,5 +1,5 @@
 # GitHub Codespaces for Students
-James Note here.
+James Note here.  Now from codespace.
 
 
 This is the repository for the LinkedIn Learning course GitHub Codespaces for Students. The full course is available from [LinkedIn Learning][lil-course-url].
