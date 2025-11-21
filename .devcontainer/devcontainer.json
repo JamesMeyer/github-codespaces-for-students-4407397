@@ -7,7 +7,7 @@
     "postAttachCommand": "npm start",
 
     "remoteUser": "node",
-    "forwardPorts": [3000]
+    "forwardPorts": [3000],
     "portsAttributes": {
         "3000": {
             "label": "ReactApp",
